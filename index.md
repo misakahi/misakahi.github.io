@@ -5,9 +5,9 @@
 layout: home
 ---
 
-## <font color="red">夏コミ(C94)参加します</font>
+## <font color="red">夏コミ(C96)参加します</font>
 
-金曜日　西地区“も”ブロック－16a　「御坂重工業」→
-[Webカタログ](https://webcatalog-free.circle.ms/Circle/13912132)
+月曜日 南ラ19b　「御坂重工業」→
+[Webカタログ](https://webcatalog-free.circle.ms/Circle/14521175/)
 
-1/35ティーガー1をラジコン化します。
+OculusでFPVラジコン戦車する予定です。
